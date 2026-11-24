@@ -1,5 +1,9 @@
 # Accesibilizarea materialelor didactice – workshop interactiv asincron
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24513588.svg)](https://doi.org/10.5281/zenodo.24513588)
+
+**Workshopul online:** https://ralucaonicasracasan.github.io/workshop-asincron-accesibilizare/
+
 **Adaptări de formă, de structură și formate alternative în accesibilizarea materialelor didactice pentru studenții cu dizabilități vizuale și cu dificultăți de citire**
 
 Lect. univ. dr. Raluca Răcășan · Universitatea din Oradea, Facultatea de Științe Sociale și Umane, Departamentul de Științe ale Educației
@@ -25,7 +29,9 @@ Răspunsurile se păstrează doar local, în browserul participantului; nu se tr
 
 ## Citare
 
-Folosiți butonul **„Cite this repository”** din dreapta paginii sau DOI-ul de pe Zenodo.
+Răcășan, R. (2026). *Adaptări de formă, de structură și formate alternative în accesibilizarea materialelor didactice pentru studenții cu dizabilități vizuale și cu dificultăți de citire: workshop interactiv asincron* [Workshop interactiv]. Zenodo. https://doi.org/10.5281/zenodo.24513588
+
+Alte formate de citare (BibTeX, APA etc.): butonul **„Cite this repository”** din dreapta paginii sau pagina Zenodo.
 
 ## Notă privind utilizarea inteligenței artificiale
 

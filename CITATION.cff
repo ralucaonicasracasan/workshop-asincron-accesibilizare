@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Dacă folosiți acest material, vă rugăm să îl citați astfel."
+message: "Dacă folosiți acest material, vă rugăm să îl citați folosind metadatele de mai jos."
 type: dataset
 title: "Adaptări de formă, de structură și formate alternative în accesibilizarea materialelor didactice pentru studenții cu dizabilități vizuale și cu dificultăți de citire: workshop interactiv asincron"
 authors:
@@ -9,6 +9,9 @@ authors:
 version: "1.0"
 date-released: "2026-11-24"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24513588
+url: "https://ralucaonicasracasan.github.io/workshop-asincron-accesibilizare/"
+repository-code: "https://github.com/ralucaonicasracasan/workshop-asincron-accesibilizare"
 abstract: "Workshop interactiv asincron pentru cadre didactice despre accesibilizarea materialelor didactice pentru studenții cu dizabilități vizuale și cu dificultăți de citire: adaptări de formă, adaptări de structură, formate alternative și tehnologii asistive. O parte dintre slide-uri au fost prezentate la Conferința psihologilor școlari, Oradea, 6 noiembrie 2026."
 keywords:
   - accesibilitate
