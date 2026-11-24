@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Dacă folosiți acest material, vă rugăm să îl citați astfel."
+type: dataset
+title: "Adaptări de formă, de structură și formate alternative în accesibilizarea materialelor didactice pentru studenții cu dizabilități vizuale și cu dificultăți de citire: workshop interactiv asincron"
+authors:
+  - family-names: "Răcășan"
+    given-names: "Raluca"
+    affiliation: "Universitatea din Oradea"
+version: "1.0"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+abstract: "Workshop interactiv asincron pentru cadre didactice despre accesibilizarea materialelor didactice pentru studenții cu dizabilități vizuale și cu dificultăți de citire: adaptări de formă, adaptări de structură, formate alternative și tehnologii asistive. O parte dintre slide-uri au fost prezentate la Conferința psihologilor școlari, Oradea, 6 noiembrie 2026."
+keywords:
+  - accesibilitate
+  - design universal
+  - dizabilități vizuale
+  - dislexie
+  - formate alternative
+  - tehnologii asistive
+  - învățământ superior
+  - DAISY
+  - RoboBraille
